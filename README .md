@@ -242,17 +242,14 @@ VotingClassifier(
 
 ---
 
-## Team
+# Author
 
-| Name | Roll Number |
-|---|---|
-| Lisha John | PRP22CS059 |
-| Nandana S | PRP22CS066 |
-| Siyana A | PRP22CS085 |
-| V Jagan | PRP22CS099 |
+V Jagan
 
+B.Tech Computer science
 College of Engineering and Management Punnapra, Kerala
 Department of Computer Science and Engineering
+
 
 ---
 
