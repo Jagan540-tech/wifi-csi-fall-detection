@@ -242,9 +242,12 @@ VotingClassifier(
 
 ---
 
-# Author
+# Authors
 
-V Jagan
+V Jagan,
+Siayan A,
+Lisha John,
+Nandana S
 
 B.Tech Computer science,
 College of Engineering and Management Punnapra Kerala,
