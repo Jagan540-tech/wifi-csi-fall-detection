@@ -245,7 +245,7 @@ VotingClassifier(
 # Authors
 
 V Jagan,
-Siayan A,
+Siyana A,
 Lisha John,
 Nandana S
 
