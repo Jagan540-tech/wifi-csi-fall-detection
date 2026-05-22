@@ -246,8 +246,8 @@ VotingClassifier(
 
 V Jagan
 
-B.Tech Computer science
-College of Engineering and Management Punnapra, Kerala
+B.Tech Computer science,
+College of Engineering and Management Punnapra Kerala,
 Department of Computer Science and Engineering
 
 
